@@ -15,7 +15,6 @@
 				<configuration>
 					<target>10</target>
 					<source>10</source>
-					
 				</configuration>
 
 			</plugin>
