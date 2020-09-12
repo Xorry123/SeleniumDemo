@@ -1,1 +1,4 @@
-com\Selenium\Base.class
+com\pageObjects\FreCRMCreateNewContact.class
+com\pageObjects\FreeCRMLoginPage.class
+com\Selenium\BaseClass.class
+com\utilities\Utility.class
