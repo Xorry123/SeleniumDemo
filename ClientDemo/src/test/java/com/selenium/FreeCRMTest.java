@@ -10,7 +10,7 @@ import com.aventstack.extentreports.markuputils.MarkupHelper;
 import com.pageObjects.FreCRMCreateNewContact;
 import com.pageObjects.FreeCRMLoginPage;
 
-public class FreeCRM extends BaseClass{
+public class FreeCRMTest extends BaseClass{
 
 	
 	@Test

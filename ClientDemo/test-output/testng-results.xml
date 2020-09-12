@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-09-12T15:15:32 IST" name="Suite" finished-at="2020-09-12T15:16:39 IST" duration-ms="67039">
+  <suite started-at="2020-09-12T15:53:05 IST" name="Suite" finished-at="2020-09-12T15:54:21 IST" duration-ms="75134">
     <groups>
     </groups>
-    <test started-at="2020-09-12T15:15:32 IST" name="Test" finished-at="2020-09-12T15:16:39 IST" duration-ms="67039">
+    <test started-at="2020-09-12T15:53:05 IST" name="Test" finished-at="2020-09-12T15:54:21 IST" duration-ms="75134">
       <class name="com.selenium.FreeCRM">
-        <test-method is-config="true" signature="configExtentReports()[pri:0, instance:com.selenium.FreeCRM@3c9d0b9d]" started-at="2020-09-12T15:15:32 IST" name="configExtentReports" finished-at="2020-09-12T15:15:32 IST" duration-ms="120" status="PASS">
+        <test-method is-config="true" signature="configExtentReports()[pri:0, instance:com.selenium.FreeCRM@3c9d0b9d]" started-at="2020-09-12T15:53:05 IST" name="configExtentReports" finished-at="2020-09-12T15:53:05 IST" duration-ms="126" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- configExtentReports -->
-        <test-method signature="LoginFreeCRM()[pri:0, instance:com.selenium.FreeCRM@3c9d0b9d]" started-at="2020-09-12T15:15:32 IST" name="LoginFreeCRM" finished-at="2020-09-12T15:15:43 IST" duration-ms="10682" status="PASS">
+        <test-method signature="LoginFreeCRM()[pri:0, instance:com.selenium.FreeCRM@3c9d0b9d]" started-at="2020-09-12T15:53:06 IST" name="LoginFreeCRM" finished-at="2020-09-12T15:53:23 IST" duration-ms="17783" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LoginFreeCRM -->
-        <test-method signature="createNewContact()[pri:0, instance:com.selenium.FreeCRM@3c9d0b9d]" started-at="2020-09-12T15:15:43 IST" name="createNewContact" finished-at="2020-09-12T15:16:39 IST" duration-ms="56334" status="PASS">
+        <test-method signature="createNewContact()[pri:0, instance:com.selenium.FreeCRM@3c9d0b9d]" started-at="2020-09-12T15:53:23 IST" name="createNewContact" finished-at="2020-09-12T15:54:21 IST" duration-ms="57327" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createNewContact -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.selenium.FreeCRM@3c9d0b9d]" started-at="2020-09-12T15:16:39 IST" name="tearDown" finished-at="2020-09-12T15:16:40 IST" duration-ms="242" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.selenium.FreeCRM@3c9d0b9d]" started-at="2020-09-12T15:54:21 IST" name="tearDown" finished-at="2020-09-12T15:54:21 IST" duration-ms="266" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
